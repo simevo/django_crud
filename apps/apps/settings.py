@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'books_cbv',
     'books_fbv',
     'books_fbv_user',    
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
